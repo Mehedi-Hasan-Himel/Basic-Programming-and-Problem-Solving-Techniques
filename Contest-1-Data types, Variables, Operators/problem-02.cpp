@@ -1,0 +1,17 @@
+/* 
+
+B - A+B Problem
+
+Calculate a + b
+Input
+a and b
+Output
+a+b
+Sample
+Inputcopy	Outputcopy
+1 5
+6
+Notes
+Use + operator
+*/
+
