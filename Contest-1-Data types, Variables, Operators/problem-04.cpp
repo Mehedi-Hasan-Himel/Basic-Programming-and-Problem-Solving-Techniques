@@ -80,7 +80,7 @@ If there are
 #include <stdio.h>
 
 int main(){
-    int rainy, cloudy, clear;
+    int rainy, cloudy;
 
     scanf("%d %d", &rainy, &cloudy);
     int rainy_cloudy_days = rainy + cloudy ;
