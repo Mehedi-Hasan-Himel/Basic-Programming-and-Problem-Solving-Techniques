@@ -15,3 +15,13 @@ Notes
 Use + operator
 */
 
+#include <stdio.h>
+
+int main(){
+    int a,b;
+    scanf("%d %d", &a,&b);
+    int Summation = a+b;
+    printf("%d", Summation);
+
+    return 0;
+}
