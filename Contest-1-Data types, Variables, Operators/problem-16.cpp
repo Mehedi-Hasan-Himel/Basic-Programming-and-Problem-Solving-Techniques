@@ -30,7 +30,7 @@ int main()
     int Area_Of_Rectangle = length * breadth;
     int Perimeter_Of_Rectangle = 2 * (length + breadth);
 
-    printf("%d %d", Area_Of_Rectangle, Perimeter_Of_Rectangle);
+    printf("%d %d\n", Area_Of_Rectangle, Perimeter_Of_Rectangle);
 
     return 0;
 }
